@@ -141,9 +141,9 @@
 
 .side-bar-right .btn2{
     margin-bottom: 10px;
-    background-color: white;
+    background-color: red;
     border: 1px solid #39c926;
-    color: #39c926;
+    color: red;
     padding: 5px 0px;
     border-radius: 10px;
 }
